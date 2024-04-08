@@ -153,5 +153,11 @@
 			"</joint>"
 		],
 		"description": "URDF joint tag"
-	}
+	},
+
+	
+	"Circle geometry line-tag": {
+		"prefix": "circle",
+		"body": ["<cylinder radius=\"${1:0.0}\" length=\"${2:0.0}\" />"]
+	},
 }
