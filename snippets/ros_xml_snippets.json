@@ -156,8 +156,8 @@
 	},
 
 	
-	"Circle geometry line-tag": {
-		"prefix": "circle",
+	"Cylinder geometry line-tag": {
+		"prefix": "cylinder",
 		"body": ["<cylinder radius=\"${1:0.0}\" length=\"${2:0.0}\" />"]
 	},
 }
